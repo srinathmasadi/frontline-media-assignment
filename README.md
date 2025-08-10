@@ -14,3 +14,6 @@
    - npm install
    - copy .env.example -> .env if you need to change API base
    - npm start
+3. Frontend Live Link: https://frontlinemedia.netlify.app/
+4. Backend Live Link: https://frontline-media-assignment.onrender.com/api
+
